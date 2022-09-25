@@ -1,6 +1,6 @@
 [submodule "attila"]
 	path = themes/attila
 	url = https://github.com/arulrajnet/attila
-[submodule "clean-blog"]
-	path = themes/clean-blog
+[submodule "pelican-clean-blog"]
+	path = themes/pelican-clean-blog
 	url = https://github.com/gilsondev/pelican-clean-blog.git
