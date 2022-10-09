@@ -27,5 +27,5 @@ Espero que la gran mayoría de mis proyectos se encuentren en mi [github](https:
 ## Palabras finales
 Agradecer a todos aquellas personas que llegaron a mi blog con el objetivo de aprender o replicar un proyecto. Infinitas gracias.
 
-> **Nota** es más te pediría que me enviaras un [tuit](https://twitter.com/Krlitos_Forever) diciendo *Hey Carlos! me sirvió tu tutorial, gracias*
+> **Nota** es más te pediría que me enviaras un [tuit](https://twitter.com/Krlitos_Forever) diciendo *Hey Carlos! estoy en tu github pages!*
 
